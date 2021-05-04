@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-![](https://github.com/NAppazeller/Neural_Network_Charity_Analysis/blob/main/Image.PNG)
+![](https://github.com/NAppazeller/Neural_Network_Charity_Analysis/blob/main/Image_1.PNG)
 ## Overview: 
 
 Explain the purpose of this analysis.
