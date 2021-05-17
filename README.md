@@ -3,14 +3,14 @@
 ![](https://github.com/NAppazeller/Neural_Network_Charity_Analysis/blob/main/Image_1.PNG)
 ## Overview: 
 
-The purpose of this project is to perform a risk analysis using deep learning networks. The overarching goal is to vet chartiable organizations and ensure donated funds will be used effectively.
+The purpose of this project is to perform a risk analysis using deep learning neural networks. The overarching goal is to vet charitable organizations for donations and analyze the impact of each donation to ensure the funds are being used effectively.
 
 ## Results: 
 
 #### Data Preprocessing
 *What variable(s) are considered the target(s) for your model?*
 
-  -The variable that was condidered the target for our model was "IS_SUCCESSFUL".
+  -The variable that was considered the target for our model was the "IS_SUCCESSFUL" attribute. It was used to determine if an organization effectively utilized a donation.
 
 *What variable(s) are considered to be the features for your model?*
 
@@ -31,7 +31,7 @@ The purpose of this project is to perform a risk analysis using deep learning ne
   
 *What steps did you take to try and increase model performance?*
 
-  -Steps that were taken to increase model performance included removing additional attributes, adding neurons and layers, and implementing various activated features.
+  -Steps that were taken to increase model performance included removing additional attributes from the analysis, adding neurons and layers, and implementing various activated features.
 
 ## Summary: 
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
