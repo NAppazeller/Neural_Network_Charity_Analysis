@@ -34,4 +34,5 @@ The purpose of this project is to perform a risk analysis using deep learning ne
   -Steps that were taken to increase model performance included removing additional attributes from the analysis, adding neurons and layers, and implementing various activated features.
 
 ## Summary: 
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+The overall results of the deep learning model indicated our models were not peformant. Future models could solve classification problems if we selected a supervised machine learning model. For example, the Random Forest learning model combines multiple smaller models into a more robust and accurate model. The output from this model could then be compare to our deep learning models.
+
